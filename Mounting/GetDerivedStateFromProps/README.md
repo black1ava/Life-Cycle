@@ -1,4 +1,4 @@
-# ge
+# getDerivedStateFromProps()
 
 The getDerivedStateFromProps() method is called right before rendering the element(s) in the DOM.
 
